@@ -1,2 +1,2 @@
 # SocketSystem
-Sistema de chat usando chat.
+Sistema de chat usando socket.
